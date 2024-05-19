@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticIp", "StaticIp\StaticIp.csproj", "{76226F04-16E9-4021-842F-2E499952AA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPUtil", "..\BPUtil\BPUtil\BPUtil.csproj", "{A4981D8D-DEBF-4B34-B9CE-FF25520A02B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76226F04-16E9-4021-842F-2E499952AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76226F04-16E9-4021-842F-2E499952AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76226F04-16E9-4021-842F-2E499952AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76226F04-16E9-4021-842F-2E499952AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4981D8D-DEBF-4B34-B9CE-FF25520A02B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4981D8D-DEBF-4B34-B9CE-FF25520A02B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4981D8D-DEBF-4B34-B9CE-FF25520A02B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4981D8D-DEBF-4B34-B9CE-FF25520A02B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2810270-69DF-4817-BA26-DC5FB2D1C98F}
+	EndGlobalSection
+EndGlobal
